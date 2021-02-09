@@ -1,2 +1,2 @@
 # trial
-trial &amp; error
+trial &amp; error for git commands 
